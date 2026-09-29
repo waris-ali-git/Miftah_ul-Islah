@@ -4,7 +4,7 @@
 
 <img src="lib/assets/images/ayat.gif" width="650" alt="Noor Demo" /><br/><br/>
 
-# ✨ Noor — The Complete Islamic Companion
+# ✨ Miftah ul-Islah — The Complete Islamic Companion
 
 ### *Your all-in-one Quran, Hadith, Worship & Prayer companion — beautifully crafted in Flutter*
 
@@ -31,11 +31,11 @@
 
 <div align="center">
 
-## 🌙 What is Noor?
+## 🌙 What is Miftah ul-Islah?
 
 </div>
 
-**Noor** (meaning *Light* in Arabic) is a full-featured, production-grade Islamic companion app engineered from the ground up with Flutter. It is the only app you need for your complete Islamic lifestyle — from reading the Holy Quran with Tajweed coloring, exploring thousands of verified Hadiths, finding the perfect Dua for every moment, tracking your prayers, to locating the Qibla wherever you are on Earth.
+**Miftah ul-Islah** (meaning *Key to reform* in Arabic) is a full-featured, production-grade Islamic companion app engineered from the ground up with Flutter. It is the only app you need for your complete Islamic lifestyle — from reading the Holy Quran with Tajweed coloring, exploring thousands of verified Hadiths, finding the perfect Dua for every moment, tracking your prayers, to locating the Qibla wherever you are on Earth.
 
 Built with a passion for both **deen** and **design**, Noor combines a premium dark-first aesthetic with deep functionality powered by a clean BLoC architecture, offline-first data strategy, and multi-language support for Arabic, Urdu & English.
 
